@@ -1,0 +1,3 @@
+C:/Users/akhil/CLionProjects/sum_of_digits  O(k)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/akhil/CLionProjects/sum_of_digits  O(k)/cmake-build-debug/CMakeFiles/sum_of_digits__O_k_.dir
+C:/Users/akhil/CLionProjects/sum_of_digits  O(k)/cmake-build-debug/CMakeFiles/edit_cache.dir
